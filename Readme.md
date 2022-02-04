@@ -1,4 +1,4 @@
-# SpringBoot + Kafka + Protobuf Example
+# SpringBoot Kafka Protobuf Example
 
 ## Used Library
 Java 1.8
